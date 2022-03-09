@@ -1,5 +1,5 @@
 ### Olá eu sou Diogo Júnior.
-- 🌱 Estudando atualmente Java, Mysql e Python.
+- 🌱 Estudando atualmente Python, HTML, CSS, JavaScript e PHP.
 - 💬 Formado em Rede de Computadores pela Universidade Estácio do Recife e Atualmente em processo de aprendizado/formação no Curso Desenvolvimento de Sistema pelo ETE Porto Digital.
 - 😄 Pronouns: Ele/dele.
 

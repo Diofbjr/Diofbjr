@@ -1,6 +1,6 @@
 ### Olá eu sou Diogo Júnior.
 - 🌱 Estudando atualmente HTML, CSS, JavaScript, Bootstrap e ReactJS.
-- 💬 Formado em Rede de Computadores pela Universidade Estácio do Recife e Atualmente em processo de formação no Curso Desenvolvimento de Sistema pelo ETE Porto Digital.
+- 💬 Formado em Rede de Computadores pela Universidade Estácio do Recife e no Curso Desenvolvimento de Sistema pelo ETE Porto Digital.
 - 😄 Pronouns: Ele/dele.
 
 <div align="center">

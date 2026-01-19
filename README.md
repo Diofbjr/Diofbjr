@@ -10,7 +10,7 @@ Estou em uma jornada de atualização técnica, focado em construir interfaces m
 
 No momento, estou revisitando o ecossistema Frontend para consolidar e expandir minhas habilidades:
 - **Core:** HTML5, CSS3 (Modern Layouts/Flexbox/Grid) e JavaScript (ES6+).
-- **Frameworks/Libs:** [Adicione aqui, ex: React.js, Tailwind CSS].
+- **Frameworks/Libs:** [React.js, Tailwind CSS].
 - **Ferramentas:** Git, Vite, VS Code.
 
 ---

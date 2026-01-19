@@ -38,7 +38,6 @@ Utilizo a inteligência artificial de forma **analítica e estratégica** para o
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diofbjr&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Diofbjr&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
 ---
 
